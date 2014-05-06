@@ -8,4 +8,3 @@ I want to learn:
     * Branches
     * Remotes
 
-This is a change.
