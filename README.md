@@ -7,4 +7,5 @@ I want to learn:
     * Commits
     * Branches
     * Remotes
+    * Other interesting stuff
 
